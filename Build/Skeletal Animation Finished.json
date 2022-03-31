@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Skeletal Animation",
+"productVersion": "0.1",
+"dataUrl": "Skeletal Animation Finished.data.unityweb",
+"wasmCodeUrl": "Skeletal Animation Finished.wasm.code.unityweb",
+"wasmFrameworkUrl": "Skeletal Animation Finished.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
